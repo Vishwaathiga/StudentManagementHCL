@@ -1,9 +1,10 @@
 # Student Management System
 
-A simple C# Console Application to manage student details.
+Built using C# and .NET.
 
 ## Features
 
-- Display student information
-- Add student details
-- Search for students
+* Display student information
+* Add student details
+* Search for students
+
