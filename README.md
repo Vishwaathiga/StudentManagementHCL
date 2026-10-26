@@ -8,3 +8,4 @@ Built using C# and .NET.
 * Add student details
 * Search for students
 
+Learning Git fetch and pull.
